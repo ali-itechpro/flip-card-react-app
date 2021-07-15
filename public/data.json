@@ -1,0 +1,88 @@
+{
+  "prototype_url": "https://qpxn3o.axshare.com/",
+  "title": "Flip Cards Interaction",
+  "introductionContent": {
+    "title": "What is Design Thinking?",
+    "description": "<p>Design thinking is a term used to represent a set of cognitive, strategic and practical processes by which design concepts are developed. Many of the key concepts and aspects of design thinking have been identified through studies, across different design domains, of design cognition and design activity in both laboratory and natural contexts.</p>",
+    "asset": "assets/design_thinking.png"
+  },
+  "conclusionContent": {
+    "title": "Well Done!",
+    "description": "<p>You have successfully viewed all the processes of Design Thinking!</p>",
+    "asset": "assets/well_done.png"
+  },
+  "flipCards": [
+    {
+      "id": 1,
+      "front": {
+        "title": "Empathise",
+        "asset": "assets/empathise.png"
+      },
+      "back": {
+        "title": "Empathise",
+        "description": "<p>Conduct research to develop an understanding of your users.</p>",
+        "asset": "assets/empathise.png"
+      }
+    },
+    {
+      "id": 2,
+      "front": {
+        "title": "Define",
+        "asset": "assets/define.png"
+      },
+      "back": {
+        "title": "Define",
+        "description": "<p>Combine all your research and observe where your users' problems exit.</p>",
+        "asset": "assets/define.png"
+      }
+    },
+    {
+      "id": 3,
+      "front": {
+        "title": "Ideate",
+        "asset": "assets/ideate.png"
+      },
+      "back": {
+        "title": "Ideate",
+        "description": "<p>Generate a range of crazy, creative ideas.</p>",
+        "asset": "assets/ideate.png"
+      }
+    },
+    {
+      "id": 4,
+      "front": {
+        "title": "Prototype",
+        "asset": "assets/prototype.png"
+      },
+      "back": {
+        "title": "Prototype",
+        "description": "<p>Build real, tactile representations for a range of your ideas.</p>",
+        "asset": "assets/prototype.png"
+      }
+    },
+    {
+      "id": 5,
+      "front": {
+        "title": "Test",
+        "asset": "assets/test.png"
+      },
+      "back": {
+        "title": "Test",
+        "description": "<p>Return to your users for feedback.</p>",
+        "asset": "assets/test.png"
+      }
+    },
+    {
+      "id": 6,
+      "front": {
+        "title": "Implement",
+        "asset": "assets/implement.png"
+      },
+      "back": {
+        "title": "Implement",
+        "description": "<p>Put the vision into effect.</p>",
+        "asset": "assets/implement.png"
+      }
+    }
+  ]
+}
